@@ -208,7 +208,7 @@ function page(title, bodyHtml, linkHeader = true) {
 <title>${esc(title)}</title>
 ${linkHeader ? `<link rel="web4-agent" href="${BASE}/.well-known/web4-agent.json">` : ""}
 <style>${PAGE_CSS}</style></head><body><div class="wrap">${bodyHtml}
-<hr><p class="muted">Web4 ${SPEC_VERSION} · Node 1 · Open source · Born at Dead Brands, owned by no one · Owner of record: David Strausser, Pottsville PA ·
+<hr><p class="muted">Web4 ${SPEC_VERSION} · Node 1 · Open source · Dead Brands inspired, owned by no one · Owner of record: David Strausser, Pottsville PA ·
 <a href="${BASE}/.well-known/web4-agent.json">manifest</a> · <a href="${BASE}/spec">spec</a> · <a href="${BASE}/join">run a node</a> ·
 <a href="https://mcp.deadbrands.co/hub">The Commons hub</a></p></div></body></html>`;
 }
