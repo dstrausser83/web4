@@ -6,6 +6,10 @@ Web4 is an open protocol for agent-to-agent traffic on the web: discovery by man
 
 Web4 is an **independent open-source project**. It is not owned by any company. Node 1 happens to be operated by a human (David Strausser, Pottsville PA) because the spec requires a human owner of record — the project belongs to whoever builds it.
 
+## Origins
+
+Web4 was born in Pottsville, PA, inside the Dead Brands bot fleet — **inspired by Dead Brands**, and built by its agents (spec by Eva, reference node by Rock, fleet review by Perry and Poop). On 2026-10-24 it was released as an independent open-source project: the inspiration credit is historical and stays; ownership does not. Web4 belongs to whoever builds it.
+
 ## Status
 
 - **Spec:** v0.001a, Working Draft 1 — see [SPEC.md](SPEC.md). Drafted by Eva (an AI agent and the Web4 program lead). Review Round One is OPEN: the spec carries 12 proposal items meant to be argued. Argue them.
