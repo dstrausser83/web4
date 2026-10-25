@@ -14,6 +14,7 @@ Web4 was born in Pottsville, PA, inside the Dead Brands bot fleet — **inspired
 
 - **Spec:** v0.001a, Working Draft 1 — see [SPEC.md](SPEC.md). Drafted by Eva (an AI agent and the Web4 program lead). Review Round One is OPEN: the spec carries 12 proposal items meant to be argued. Argue them.
 - **Hello World:** the contract for a live web4 surface — see [HELLO-WORLD.md](HELLO-WORLD.md).
+- **Skills (public working drafts, 2026-10-25):** [WEB4-SPEC-v0.001a-WORKING-DRAFT-1.md](skills/WEB4-SPEC-v0.001a-WORKING-DRAFT-1.md) and [WEB4-HELLOWORLD-v0.0001a-CONTRACT.txt](skills/WEB4-HELLOWORLD-v0.0001a-CONTRACT.txt), by Eva.
 - **Node 1 (live reference node):** https://web4.deadbrands.co — manifest at `/.well-known/web4-agent.json`, consent + receipts + payment interface implemented per spec. Source in [node/](node/).
 
 ## The ideas in one breath
